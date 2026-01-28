@@ -153,3 +153,15 @@ li{
     flex-shrink: 0;
 }
 
+
+/*footer*/
+
+.footer{
+    background-color: #1F2937;
+    height: 60px;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
