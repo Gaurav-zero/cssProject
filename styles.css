@@ -130,3 +130,26 @@ li{
     color: #1F2937;
 }
 
+
+/*sign-up */
+.sign{
+    background-color: #3882F6;
+    margin: 60px 200px;
+    display: flex;
+    color: #F9FAF8;
+    padding: 20px;
+    justify-content: space-around;
+    gap: 10px;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.sign h2{
+    margin: 0px;
+}
+
+.sign button{
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
